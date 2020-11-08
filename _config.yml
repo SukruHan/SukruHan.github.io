@@ -59,7 +59,7 @@ avatar: "images/photo.jpg"
 links:
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://www.linkedin.com/in/sukruhansahin/
       icon: fab fa-linkedin
   - github:
@@ -72,11 +72,6 @@ links:
       show: true
       href: mailto:sukruhansahin@gmail.com
       icon: fas fa-envelope
-  - CV:
-      name: CV
-      show: true
-      href: https://github.com/SukruHan/SukruHan.github.io/blob/main/ResumeCV/CV_Sukru_Han_Sahin.pdf
-      icon: fas fa-cv
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
