@@ -28,13 +28,12 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://sukruhan.github.io/
-
+url: https://github.com/SukruHan/SukruHan.github.io/
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/sukruhan.github.io'
+baseurl: '/SukruHan.github.io'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -77,7 +76,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Hi, I am studying MSc. Human-Centered Artificial Intelligence at Technical University of Denmark (DTU).
+    Prior to DTU, I studied BSc. Industrial Engineering at Bogazici University. I am highly interested in data science related researches, environments and frameworks as well as applications. Feel free to reach out to me :)
 
 #EOF
