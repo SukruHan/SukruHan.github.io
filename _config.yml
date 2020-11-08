@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Sukru Han
+name: Sukru Han Sahin
 #subtitle:
 subtitle: Data Scientist
 
@@ -72,11 +72,15 @@ links:
       show: true
       href: mailto:sukruhansahin@gmail.com
       icon: fas fa-envelope
-
+  - CV:
+      name: CV
+      show: true
+      href: https://github.com/SukruHan/SukruHan.github.io/blob/main/ResumeCV/CV_Sukru_Han_Sahin.pdf
+      icon: fas fa-cv
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
     Hi, I am studying MSc. Human-Centered Artificial Intelligence at Technical University of Denmark (DTU).
-    Prior to DTU, I studied BSc. Industrial Engineering at Bogazici University. I am highly interested in data science related researches, environments and frameworks as well as applications. Feel free to reach out to me :)
+    Prior to DTU, I studied BSc. Industrial Engineering at Bogazici University. I am highly interested in data science related researches, publications, environments and frameworks as well as applications. You can check my github account to see some of my researches and applications. Feel free to reach out to me :)
 
 #EOF
