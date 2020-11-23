@@ -124,17 +124,17 @@ footer {
     line-height: $fc-footer-height - 2 * 10px;
     padding: 10px 0;
     width: 100%;
-    font-size: smaller;
+    font-size: 1.5em; //smaller;
     color: rgba(255, 255, 255, 0.4);
 
     .col {
         padding: 0;
     }
     a {
-        color: rgba(255, 255, 255, 0.6);
+        color: white
         &:hover {
             text-decoration: none;
-            color: white;
+            color: rgba(255, 255, 255, 0.6);
         }
     }
 }
